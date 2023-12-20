@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+}
+
+body {
+   background-color: rgb(	0,0,0); 
+   /* background-image: url('./assets/background.gif');*/
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+}
