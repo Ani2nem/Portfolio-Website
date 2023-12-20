@@ -3,17 +3,60 @@
 }
 
 .hero-container img {
-    width: 5;
-    height: 30rem;
+    width: 50rem;
+    height: 35rem;
     background-size: cover;
     display: block;
     position: absolute;
-    left: 55rem;
-    top: 5rem;
-    border-radius: 5rem;
+    left: 40rem;
+    top: 2rem;
+    border-radius: 30px;
 }
 
 .hero-text{
-    font-size: 20px;
+    font-size: 18px; 
 }
 
+.hero-container .linkedinIcon{
+    width: 2.5rem;
+    height: 2.5rem;
+    background-size: cover;
+    display: relative;
+    top: 14rem;
+    left: 0rem;
+    cursor: pointer;
+}
+.hero-container .linkedinIcon:hover{
+    width: 3rem;
+    height: 3rem;
+}
+
+.hero-container .githubIcon{
+    width: 2.5rem;
+    height: 2.5rem;
+    background-size: cover;
+    display: relative;
+    top: 14rem;
+    left: 5rem;
+    cursor: pointer;
+}
+.hero-container .githubIcon:hover{
+    width: 3rem;
+    height: 3rem;
+}
+
+
+.hero-container .resumeIcon{
+    width: 2.5rem;
+    height: 2.5rem;
+    background-size: cover;
+    display: relative;
+    top: 14rem;
+    left: 10rem;
+    cursor: pointer;
+}
+
+.hero-container .resumeIcon:hover{
+    width: 3rem;
+    height: 3rem;
+}

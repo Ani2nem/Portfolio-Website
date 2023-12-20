@@ -20,7 +20,7 @@
 }
 
 .desktopMenuListItem:hover{
-    color: rgb(210, 48, 210);
+    color:rgb(210, 48, 210) ;
     padding-bottom: 0.5rem;
     transition: 0.3s;
 }
