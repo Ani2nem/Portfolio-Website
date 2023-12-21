@@ -5,7 +5,7 @@ import TypeWriter from '../TypeWriter/typewriter';
 const Hero = () => {
   return (
     <div className="hero-container">
-      <img src="/assets/hero.webp" alt="hero" className="heroImg" />
+      <img src="/assets/hero.jpeg" alt="hero" className="heroImg" />
       <div className="text">
         <TypeWriter text="Hi! I'm Anirudh." highlightColor="rgb(210, 48, 210)" />
         <text className="hero-text">

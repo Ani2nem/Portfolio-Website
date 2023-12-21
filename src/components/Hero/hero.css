@@ -3,18 +3,18 @@
 }
 
 .hero-container img {
-    width: 50rem;
-    height: 35rem;
+    width: 40rem;
+    height: 30rem;
     background-size: cover;
     display: block;
     position: absolute;
-    left: 40rem;
-    top: 2rem;
-    border-radius: 30px;
+    left: 46rem;
+    top: 4rem;
+    border-radius: 3rem;
 }
 
 .hero-text{
-    font-size: 18px; 
+    font-size: 20px; 
 }
 
 .hero-container .linkedinIcon{
@@ -22,7 +22,7 @@
     height: 2.5rem;
     background-size: cover;
     display: relative;
-    top: 14rem;
+    top: 21rem;
     left: 0rem;
     cursor: pointer;
 }
@@ -36,7 +36,7 @@
     height: 2.5rem;
     background-size: cover;
     display: relative;
-    top: 14rem;
+    top: 21rem;
     left: 5rem;
     cursor: pointer;
 }
@@ -51,7 +51,7 @@
     height: 2.5rem;
     background-size: cover;
     display: relative;
-    top: 14rem;
+    top: 21rem;
     left: 10rem;
     cursor: pointer;
 }
