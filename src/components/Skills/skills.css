@@ -7,3 +7,203 @@
     text-align: center;
     font-size: 60px;
 }
+
+.skillIcons{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 53rem;
+}
+
+
+.java-icon{
+    margin: 1rem 1rem;
+    margin-right: -1rem;
+    height: 13rem;
+    width: auto;
+    transition: transform 0.1s ease;
+}
+.java-icon:hover{
+    cursor: pointer;
+    height: 15rem;
+}
+
+.cpp-icon{
+    margin: 1rem 1rem;
+    height: 12rem;
+    width: auto;
+}
+
+.cpp-icon:hover{
+    cursor: pointer;
+    height: 14rem;
+}
+
+.python-icon{
+    margin: 1rem 1rem;
+    height: 11rem;
+    width: auto;
+}
+
+.python-icon:hover{
+    cursor: pointer;
+    height: 13rem;
+}
+
+.mysql-icon{
+    margin: 1rem 1rem;
+    margin-top: -3rem;
+    height: 20rem;
+    width: auto;
+}
+
+.mysql-icon:hover{
+    cursor: pointer;
+    height: 22rem;
+}
+
+.node-icon{
+    margin: 1rem 1rem;
+    margin-top: 0rem;
+    height: 12rem;
+    width: auto;
+}
+
+.node-icon:hover{
+    cursor: pointer;
+    height: 14rem;
+}
+
+.js-icon{
+    margin: 1rem 1rem;
+    margin-left: 4rem;
+    height: 10rem;
+    width: auto;
+}
+
+.js-icon:hover{
+    cursor: pointer;
+    height: 12rem;
+}
+
+.css-icon{
+    margin: 1rem 1rem;
+    margin-left: 1.8rem;
+    margin-top: 0rem;
+    height: 12.5rem;
+    width: auto;
+}
+
+.css-icon:hover{
+    cursor: pointer;
+    height: 14.5rem;
+}
+
+.html-icon{
+    margin: 1rem 1rem;
+    margin-left: 1rem;
+    margin-top: 0rem;
+    height: 12.5rem;
+    width: auto;
+}
+
+.html-icon:hover{
+    cursor: pointer;
+    height: 14.5rem;
+}
+
+
+.react-icon{
+    margin: 1rem 1rem;
+    margin-left: 1rem;
+    margin-top: 0rem;
+    height: 12rem;
+    width: auto;
+}
+
+.react-icon:hover{
+    cursor: pointer;
+    height: 14rem;
+}
+
+.studio-icon{
+    margin: 1rem 1rem;
+    margin-left: 1rem;
+    margin-right: 0rem;
+    margin-top: -3rem;
+    height: 17rem;
+    width: auto;
+}
+
+
+.studio-icon:hover{
+    cursor: pointer;
+    height: 19rem;
+}
+
+.mongo-icon{
+    height: 15.5rem;
+    width: auto;
+    margin-left: -3rem;
+    flex-wrap: nowrap;
+}
+
+.mongo-icon:hover{
+    cursor: pointer;
+    height: 17.5rem;
+}
+
+.pandas-icon{
+    margin: 1rem 1rem;
+    margin-left: 0rem;
+    margin-right: -2rem;
+    margin-top: -1.2rem;
+    height: 17rem;
+    width: auto;
+}
+
+.pandas-icon:hover{
+    cursor: pointer;
+    height: 19rem;
+}
+
+.numpy-icon{
+    margin: 1rem 1rem;
+    margin-top: -0.5rem;
+    height: 16rem;
+    width: auto;
+}
+
+.numpy-icon:hover{
+    cursor: pointer;
+    height: 18rem;
+}
+
+.plotly-icon{
+    margin: 1rem 1rem;
+    margin-left: -0.5rem;
+    margin-top: -1rem;
+    height: 17rem;
+    width: auto;
+}
+
+.plotly-icon:hover{
+    cursor: pointer;
+    height: 19rem;
+}
+
+
+.aws-icon{
+    margin: 1rem 1rem;
+    margin-left: -1rem;
+    height: 14rem;
+    width: auto;
+}
+
+.aws-icon:hover{
+    cursor: pointer;
+    height: 16rem;
+    
+}
