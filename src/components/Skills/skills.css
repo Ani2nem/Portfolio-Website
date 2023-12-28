@@ -1,0 +1,9 @@
+.skillsTitle{
+    font-family: sans-serif;
+    position: absolute;
+    left: 50%;
+    top: 105rem;
+    transform: translateX(-50%);
+    text-align: center;
+    font-size: 60px;
+}

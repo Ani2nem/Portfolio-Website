@@ -2,7 +2,7 @@
     font-family: sans-serif;
     position: absolute;
     left: 50%;
-    top: 48rem;
+    top: 53rem;
     transform: translateX(-50%);
     text-align: center;
     font-size: 60px;
@@ -11,26 +11,27 @@
 
 .memoji{
     position: absolute;
-    top: 52rem;
-    left: -10%;
+    top: 55rem;
+    left: -20rem;
     z-index: -1;
+    height: 60rem;
+    width: 80rem;
 }
 
 
 .textContainer{
     font-family: sans-serif;
     position: absolute;
-    left: 65%;
-    top: 57rem;
+    left: 70%;
+    top: 66rem;
     transform: translateX(-50%);
-    font-size: 22px;
+    font-size: 25px;
     line-height: 2;
-    width: 50rem;
+    width: 40rem;
     background-color: rgb(31,35,40);
     border-radius: 10px;
     padding: 1rem 2rem;
 }
-
 
 
 

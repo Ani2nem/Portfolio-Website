@@ -1,10 +1,12 @@
 .text {
     position: absolute;
     left: 60px;
-    top: 120px;
+    top: 170px;
     color: white;
     font-size: 35px;
     font-family: 'Arial', sans-serif;
-    max-width: 40rem;
+    max-width: 58rem;
     word-wrap: break-word; 
+    border-radius: 30px;
+    padding-left: 30px;
 }
