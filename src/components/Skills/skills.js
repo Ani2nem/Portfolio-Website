@@ -23,6 +23,19 @@ const Skills = () => {
                 <img src="/assets/Icons/plotlyIcon.png" alt="" className="plotly-icon"/>
                 <img src="/assets/Icons/awsIcon.svg" alt="" className="aws-icon"/>
             </div>
+            <h2 className="advSkills">Advanced Proficiencies</h2>
+            <div className="advCard">
+            <ul>
+                <li>Data Structures and Algorithms</li>
+                <li>Probabilites and Statistics</li>
+                <li>Calculus</li>
+                <li>Database Systems</li>
+                <li>UNIX</li>
+                <li>Computer Architecture and Digital Logic</li>
+                <li>Operating Systems</li>
+            </ul>
+            </div>
+            <img src="/assets/purple.gif" className="purpleGif"/>
         </section>
     )
 }

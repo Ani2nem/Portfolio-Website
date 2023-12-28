@@ -2,7 +2,7 @@
     font-family: sans-serif;
     position: absolute;
     left: 50%;
-    top: 105rem;
+    top: 101rem;
     transform: translateX(-50%);
     text-align: center;
     font-size: 60px;
@@ -14,7 +14,7 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    top: 53rem;
+    top: 47rem;
 }
 
 
@@ -206,4 +206,37 @@
     cursor: pointer;
     height: 16rem;
     
+}
+
+.advSkills{
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+    position: relative;
+    top: 51rem;
+    left: 3rem;
+}
+
+.advCard{
+    font-family: sans-serif;
+    position: relative;
+    left: 23rem;
+    top: 53rem;
+    transform: translateX(-50%);
+    font-size: 25px;
+    line-height: 2;
+    width: 40rem;
+    background-color: rgb(31,35,40);
+    border-radius: 10px;
+    padding: 1rem 0rem;
+    padding-left: 3rem;
+}
+
+
+.purpleGif{
+    position: relative;
+    z-index: -1;
+    left: 47rem;
+    top: 23rem;
+    height: 37rem;
 }
