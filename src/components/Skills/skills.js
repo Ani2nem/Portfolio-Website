@@ -27,10 +27,10 @@ const Skills = () => {
             <div className="advCard">
             <ul>
                 <li>Data Structures and Algorithms</li>
+                <li>Git and GitHub</li>
+                <li>Bash</li>
                 <li>Probabilites and Statistics</li>
-                <li>Calculus</li>
                 <li>Database Systems</li>
-                <li>UNIX</li>
                 <li>Computer Architecture and Digital Logic</li>
                 <li>Operating Systems</li>
             </ul>

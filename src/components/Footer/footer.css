@@ -1,0 +1,61 @@
+.footer{
+    position: absolute;
+    top: 280rem;
+    background-color: rgb(31,35,40);
+    width: 100%;
+    height: 10rem;
+}
+
+.linkedinIcon{
+    width: 3rem;
+    height: 3rem;
+    background-size: cover;
+    display: relative;
+    top: 2rem;
+}
+
+
+.githubIcon{
+    width: 3rem;
+    height: 3rem;
+    background-size: cover;
+    display: relative;
+    top: 2rem;
+}
+
+ .resumeIcon{
+    width: 3rem;
+    height: 3rem;
+    background-size: cover;
+    display: relative;
+    top: 2rem;
+    cursor: pointer;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    max-width: 20rem;
+    position: relative;
+    top: 20px;
+    left: 39%;
+}
+
+.footerMsg{
+    position: relative;
+    left: 43%;
+    top: 40px;
+}
+
+
+.upBtn{
+    color: white;
+    background-color: rgb(210, 48, 210);
+    border: none;
+    width: 40px;
+    height: 30px;
+    position: relative;
+    left: 43.8rem;
+    top: -10px;
+    font-size: large;
+}

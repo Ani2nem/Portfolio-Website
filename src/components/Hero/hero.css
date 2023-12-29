@@ -4,7 +4,7 @@
 
 .hero-container img {
     width: 100%;
-    height: 60rem;
+    height: 65rem;
     background-size: cover;
     display: block;
     position: relative;
@@ -22,7 +22,8 @@
     height: 3rem;
     background-size: cover;
     display: relative;
-    top: 2rem;
+    top: 0rem;
+    left: -22rem;
     transition: transform 0.2s ease;
 }
 .hero-container .linkedinIcon:hover{
@@ -34,7 +35,8 @@
     height: 3rem;
     background-size: cover;
     display: relative;
-    top: 2rem;
+    top: 0rem;
+    left: -22rem;
     transition: transform 0.2s ease;
 }
 .hero-container .githubIcon:hover{
@@ -47,7 +49,8 @@
     height: 3rem;
     background-size: cover;
     display: relative;
-    top: 2rem;
+    top: 0rem;
+    left: -22rem;
     cursor: pointer;
     transition: transform 0.2s ease;
 }

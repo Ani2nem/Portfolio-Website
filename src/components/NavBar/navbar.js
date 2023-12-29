@@ -9,7 +9,6 @@ const Navbar = () => {
             <Link className="desktopMenuListItem">Home</Link>
             <Link className="desktopMenuListItem">About</Link>
             <Link className="desktopMenuListItem">Skills</Link>
-            <Link className="desktopMenuListItem">Reviews</Link>
             <Link className="desktopMenuListItem">Contact</Link>
         </div>
     </nav>
