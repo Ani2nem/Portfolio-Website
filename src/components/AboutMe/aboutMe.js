@@ -12,7 +12,7 @@ const AboutMe = () =>{
             and Node.js. With a solid foundation in Agile methodologies, Git, and GitHub, I bring diverse 
             experience and a commitment to impactful solutions in computer science.</p>
              </div>
-             <img src="/assets/memoji.gif" rel="memeoji" className='memoji'></img>
+             <img src="/assets/memoji.gif" alt="memeoji" className='memoji'></img>
         </div>
         
     )

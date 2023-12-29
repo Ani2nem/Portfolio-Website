@@ -34,7 +34,7 @@ const Skills = () => {
                 <li>Operating Systems</li>
             </ul>
             </div>
-            <img src="/assets/purple.gif" className="purpleGif"/>
+            <img src="/assets/purple.gif" alt="gif" className="purpleGif"/>
         </section>
     )
 }
