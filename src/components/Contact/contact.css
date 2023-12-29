@@ -82,3 +82,10 @@
 .submitBtn:active{
     color:rgb(210, 48, 210);
 }
+
+.email-text{
+    position: relative;
+    top: 18px;
+    left: 7px;
+    font-size: 20px;
+}

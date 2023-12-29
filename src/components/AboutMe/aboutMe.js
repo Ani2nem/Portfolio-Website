@@ -4,7 +4,7 @@ import './aboutMe.css'
 const AboutMe = () =>{
     return (
         <div>
-            <h1 className="aboutMeTitle">About Me</h1>  
+            <h1 className="aboutMeTitle" id="About">About Me</h1>  
             <div className='textContainer'>
             <p className="aboutMe">I am a Computer Science student 
             graduating from The University of Texas at Dallas in May 2025 . Proficient in Java, 

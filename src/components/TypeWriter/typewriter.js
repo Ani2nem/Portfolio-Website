@@ -11,7 +11,7 @@ const TypeWriter = ({ text, highlightColor }) => {
         setCurrentText((value) => value + text.charAt(index));
         setIndex((prevIndex) => prevIndex + 1);
       }
-    }, 150);
+    }, 200);
 
     return () => clearTimeout(typingTimeout);
   }, [index, text]);

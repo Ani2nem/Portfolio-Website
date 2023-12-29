@@ -1,11 +1,10 @@
 import React from "react";
 import './skills.css'
-import {Link} from 'react-scroll'
 
 const Skills = () => {
     return (
         <section>
-             <h1 className="skillsTitle">Skills</h1>  
+             <h1 className="skillsTitle" id="Skills">Skills</h1>  
             <div className="skillIcons">
                 <img src="/assets/Icons/javaIcon.svg" alt="" className="java-icon"/>
                 <img src="/assets/Icons/cppIcon.svg" alt="" className="cpp-icon"/>
