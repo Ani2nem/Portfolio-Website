@@ -7,7 +7,7 @@
 }
 
 body {
-   background-color: rgb(	0,0,0); 
+   background: black;
    /* background-image: url('./assets/background.gif');*/
     color: white;
     overflow: hidden;
