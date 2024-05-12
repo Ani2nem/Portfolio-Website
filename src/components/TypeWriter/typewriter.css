@@ -1,12 +1,10 @@
 .text {
     position: absolute;
-    left: 60px;
-    top: 170px;
+    /* left: 60px;
+    top: 170px; */
+    margin: -53% 5%;
     color: white;
-    font-size: 35px;
+    font-size: 2.5vw;
     font-family: 'Arial', sans-serif;
-    max-width: 58rem;
     word-wrap: break-word; 
-    border-radius: 30px;
-    padding-left: 30px;
 }
