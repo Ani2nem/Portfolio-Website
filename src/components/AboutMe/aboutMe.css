@@ -2,20 +2,20 @@
     font-family: sans-serif;
     position: absolute;
     left: 50%;
-    top: 59rem;
+    top: 68vw;
     transform: translateX(-50%);
     text-align: center;
-    font-size: 60px;
+    font-size: 4.5vw;
 }
 
 
 .memoji{
     position: absolute;
-    top: 57rem;
-    left: -20rem;
+    top: 70vw;
+    left: -22vw;
     z-index: -1;
-    height: 60rem;
-    width: 80rem;
+    height: 65vw;
+    width: 85vw;
 }
 
 
@@ -23,11 +23,11 @@
     font-family: sans-serif;
     position: absolute;
     left: 70%;
-    top: 68rem;
+    top: 78vw;
     transform: translateX(-50%);
-    font-size: 25px;
+    font-size: 1.9vw;
     line-height: 2;
-    width: 40rem;
+    width: 50vw;
     background-color: rgb(31,35,40);
     border-radius: 10px;
     padding: 1rem 2rem;
