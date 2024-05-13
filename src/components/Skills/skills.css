@@ -2,28 +2,28 @@
     font-family: sans-serif;
     position: absolute;
     left: 50%;
-    top: 105rem;
+    top: 120vw;
     transform: translateX(-50%);
     text-align: center;
-    font-size: 60px;
+    font-size: 5vw;
 }
 
 .skillIcons{
     display: flex;
     flex-wrap: wrap;
-    row-gap: 100px;
-    column-gap: 35px;
+    row-gap: 6vw;
+    column-gap: 8vw;
     justify-content: center;
     align-items: center;
     position: relative;
-    top: 47rem;
+    top: 130vw;
 }
 
 
 .java-icon{
-    margin: 1rem 1rem;
-    margin-right: -1rem;
-    height: 13rem;
+    margin: 1vw 1vw;
+    margin-right: -1vw;
+    height: 13vw;
     width: auto;
     transition: transform 0.1s ease;
 }
@@ -32,8 +32,8 @@
 }
 
 .cpp-icon{
-    margin: 1rem 1rem;
-    height: 12rem;
+    margin: 1vw 1vw;
+    height: 12vw;
     width: auto;
 }
 
@@ -42,8 +42,8 @@
 }
 
 .python-icon{
-    margin: 1rem 1rem;
-    height: 11rem;
+    margin: 1vw 1vw;
+    height: 11vw;
     width: auto;
 }
 
@@ -52,9 +52,9 @@
 }
 
 .mysql-icon{
-    margin: 1rem 1rem;
-    margin-top: -3rem;
-    height: 20rem;
+    margin: 1vw 1vw;
+    margin-top: -3vw;
+    height: 20vw;
     width: auto;
 }
 
@@ -63,9 +63,9 @@
 }
 
 .node-icon{
-    margin: 1rem 1rem;
-    margin-top: 1.5rem;
-    height: 12rem;
+    margin: 1vw 1vw;
+    margin-top: 1.5vw;
+    height: 12vw;
     width: auto;
 }
 
@@ -74,9 +74,9 @@
 }
 
 .js-icon{
-    margin: 1rem 1rem;
-    margin-left: 4rem;
-    height: 10rem;
+    margin: 1vw 1vw;
+    margin-left: 4vw;
+    height: 10vw;
     width: auto;
 }
 
@@ -85,10 +85,10 @@
 }
 
 .css-icon{
-    margin: 1rem 1rem;
-    margin-left: 1.8rem;
-    margin-top: 1.3rem;
-    height: 12.5rem;
+    margin: 1vw 1vw;
+    margin-left: 1.8vw;
+    margin-top: 1.3vw;
+    height: 12.5vw;
     width: auto;
 }
 
@@ -97,10 +97,10 @@
 }
 
 .html-icon{
-    margin: 1rem 1rem;
-    margin-left: 1rem;
-    margin-top: 1.3rem;
-    height: 12.5rem;
+    margin: 1vw 1vw;
+    margin-left: 1vw;
+    margin-top: 1.3vw;
+    height: 12.5vw;
     width: auto;
 }
 
@@ -110,10 +110,10 @@
 
 
 .react-icon{
-    margin: 1rem 1rem;
-    margin-left: 1rem;
-    margin-top: 0rem;
-    height: 12rem;
+    margin: 1vw 1vw;
+    margin-left: 1vw;
+    margin-top: 0vw;
+    height: 12vw;
     width: auto;
 }
 
@@ -122,11 +122,11 @@
 }
 
 .studio-icon{
-    margin: 1rem 1rem;
-    margin-left: 1rem;
-    margin-right: 0rem;
-    margin-top: -3rem;
-    height: 17rem;
+    margin: 1vw 1vw;
+    margin-left: 1vw;
+    margin-right: 0vw;
+    margin-top: -3vw;
+    height: 17vw;
     width: auto;
 }
 
@@ -136,7 +136,7 @@
 }
 
 .mongo-icon{
-    height: 15.5rem;
+    height: 15.5vw;
     width: auto;
 }
 
@@ -145,11 +145,11 @@
 }
 
 .pandas-icon{
-    margin: 1rem 1rem;
-    margin-left: 0rem;
-    margin-right: -2rem;
-    margin-top: -1.2rem;
-    height: 17rem;
+    margin: 1vw 1vw;
+    margin-left: 0vw;
+    margin-right: -2vw;
+    margin-top: -1.2vw;
+    height: 17vw;
     width: auto;
 }
 
@@ -158,9 +158,9 @@
 }
 
 .numpy-icon{
-    margin: 1rem 1rem;
-    margin-top: -0.5rem;
-    height: 16rem;
+    margin: 1vw 1vw;
+    margin-top: -0.5vw;
+    height: 16vw;
     width: auto;
 }
 
@@ -169,10 +169,10 @@
 }
 
 .plotly-icon{
-    margin: 1rem 1rem;
-    margin-left: -0.5rem;
-    margin-top: -1rem;
-    height: 17rem;
+    margin: 1vw 1vw;
+    margin-left: -0.5vw;
+    margin-top: -1vw;
+    height: 17vw;
     width: auto;
 }
 
@@ -182,10 +182,10 @@
 
 
 .aws-icon{
-    margin: 1rem 1rem;
-    margin-left: -1rem;
-    margin-top: -1rem;
-    height: 14rem;
+    margin: 1vw 1vw;
+    margin-left: -1vw;
+    margin-top: -1vw;
+    height: 14vw;
     width: auto;
 }
 
@@ -196,32 +196,31 @@
 .advSkills{
     color: white;
     font-family: sans-serif;
-    font-size: 40px;
+    font-size: 2.7vw;
     position: relative;
-    top: 51rem;
-    left: 3rem;
+    top: 135vw;
+    left: 3vw;
 }
 
 .advCard{
     font-family: sans-serif;
     position: relative;
-    left: 23rem;
-    top: 53rem;
+    left: 25vw;
+    top: 137vw;
     transform: translateX(-50%);
-    font-size: 25px;
+    font-size: 1.8vw;
     line-height: 2;
-    width: 40rem;
+    width: 45vw;
     background-color: rgb(31,35,40);
     border-radius: 10px;
-    padding: 1rem 0rem;
-    padding-left: 3rem;
+    padding: 1vw 0vw;
+    padding-left: 3vw;
 }
-
 
 .purpleGif{
     position: relative;
     z-index: -1;
-    left: 47rem;
-    top: 23rem;
-    height: 37rem;
+    left: 53vw;
+    top: 103vw;
+    height: 41vw;
 }
