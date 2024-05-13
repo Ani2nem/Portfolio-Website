@@ -22,7 +22,8 @@
 .hero-container .githubIcon,
 .hero-container .linkedinIcon,
 .hero-container .resumeIcon{
-    margin: 0% 0%;
+    position: absolute;
+    top: 10vw;
     width: 3.6vw;
     height: 3.6vw;
     transition: transform 0.2s ease;
@@ -36,6 +37,9 @@
 .icons{
     display: flex;
     justify-content: space-between;
-    margin-left: -39%;
+    margin-left: -49.5%;
     width: 60%;
+}
+.icon-holder{
+    margin-left: -62.5%;
 }
