@@ -1,78 +1,78 @@
 .contact-title{
-    font-size: 60px;
+    font-size: 4.3vw;
     color: white;
     font-family: sans-serif;
     position: relative;
     text-align: center;
-    top: 28rem;
+    top: 108vw;
 }
 
 .contact-subtitle{
-    font-size: 30px;
+    font-size: 2vw;
     color: white;
     font-family: sans-serif;
     position: relative;
-    max-width: 60px;
-    left: 22%;
-    top: 28rem;
+    max-width: 60vw;
+    left: 24%;
+    top: 109vw;
 }
 
 .contact-form{
     color: white;
     font-family: sans-serif;
     position: relative;
-    max-width: 60px;
+    max-width: 60vw;
     left: 22%;
-    top: 26rem;
+    top: 108vw;
 }
 
 .name{
-    margin-top: 3rem;
-    width: 50rem;
-    height: 2.5rem;
+    margin-top: 3vw;
+    width: 57vw;
+    height: 3vw;
     background-color: rgb(31,35,40);
-    font-size: 25px;
-    padding-left: 0.5rem;
+    font-size: 2vw;
+    padding-left: 0.5vw;
     color: white;
     border: none;
 }
 
 .email{
-    margin-top: 1rem;
-    width: 50rem;
-    height: 2.5rem;
+    margin-top: 1vw;
+    width: 57vw;
+    height: 3vw;
     color: white;
-    font-size: 25px;
-    padding-left: 0.5rem;
+    font-size: 2vw;
+    padding-left: 0.5vw;
     background-color: rgb(31,35,40);
     border: none;
 }
 
 .msg{
-    margin-top: 1rem;
-    padding-top: 0.3rem;
-    width: 50rem;
-    height: 10rem;
-    font-size: 25px;
+    margin-top: 1vw;
+    padding-top: 0.3vw;
+    width: 57vw;
+    height: 10vw;
+    font-size: 2vw;
     font-family: sans-serif;
-    padding-left: 0.5rem;
+    padding-left: 0.5vw;
     background-color: rgb(31,35,40);
     color: white;
     border: none;
 }
 
 .submitBtn{
-    width: 7rem;
-    height: 3rem;
+    width: 7.5vw;
+    height: 3.5vw;
     border-radius: 1rem;
     background-color: rgb(156, 20, 156);
-    font-size: 25px;
+    font-size: 1.7vw;
     font-family: sans-serif;
     font-weight: 800;
     color: rgb(31,35,40);
     position: absolute;
-    left: 43rem;
-    top: 21rem;
+    left: 49.7vw;
+    top: 22vw;
     transition: 0.5s ease;
 }
 
@@ -85,7 +85,7 @@
 
 .email-text{
     position: relative;
-    top: 18px;
-    left: 7px;
-    font-size: 20px;
+    top: 1vw;
+    left: 0.5vw;
+    font-size: 1.4vw;
 }
