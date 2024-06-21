@@ -7,7 +7,7 @@ const Hero = () => {
     <div className="hero-container" id="Home">
       <img src="/assets/hero.jpeg" alt="hero" className="heroImg" />
       <div className="text">
-        <TypeWriter text="Hi! I'm Anirudh." highlightColor="rgb(210, 48, 210)" />
+        <TypeWriter text="Hi! I'm Anirudh." highlightColor="rgb(210, 48, 210)" className="typewriter"/>
         <text className="hero-text">
           A Software Engineer with a passion for unraveling complex problems. Proficient in Java for robust applications,
           Python for insightful data visualization, and adept in the MERN stack for full-stack web development.
