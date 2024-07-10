@@ -4,7 +4,7 @@
     font-family: sans-serif;
     position: relative;
     text-align: center;
-    top: 108vw;
+    top: 117vw;
 }
 
 .contact-subtitle{
@@ -14,7 +14,7 @@
     position: relative;
     max-width: 60vw;
     left: 24%;
-    top: 109vw;
+    top: 118vw;
 }
 
 .contact-form{
@@ -23,7 +23,7 @@
     position: relative;
     max-width: 60vw;
     left: 22%;
-    top: 108vw;
+    top: 117vw;
 }
 
 .name{
@@ -31,7 +31,7 @@
     width: 57vw;
     height: 3vw;
     background-color: rgb(31,35,40);
-    font-size: 2vw;
+    font-size: 1.4vw;
     padding-left: 0.5vw;
     color: white;
     border: none;
@@ -42,7 +42,7 @@
     width: 57vw;
     height: 3vw;
     color: white;
-    font-size: 2vw;
+    font-size: 1.4vw;
     padding-left: 0.5vw;
     background-color: rgb(31,35,40);
     border: none;
@@ -53,7 +53,7 @@
     padding-top: 0.3vw;
     width: 57vw;
     height: 10vw;
-    font-size: 2vw;
+    font-size: 1.4vw;
     font-family: sans-serif;
     padding-left: 0.5vw;
     background-color: rgb(31,35,40);
@@ -72,7 +72,7 @@
     color: rgb(31,35,40);
     position: absolute;
     left: 49.7vw;
-    top: 22vw;
+    top: 24vw;
     transition: 0.5s ease;
 }
 
