@@ -2,13 +2,14 @@
     font-family: sans-serif;
     position: absolute;
     left: 50%;
-    top: 180vw;
+    top: 189vw;
     transform: translateX(-50%);
     text-align: center;
     font-size: 5vw;
 }
 
 .skillIcons{
+    top: 143vw;
     display: flex;
     flex-wrap: wrap;
     row-gap: 6vw;
@@ -16,7 +17,6 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    top: 140vw;
 }
 
 

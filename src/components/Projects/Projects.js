@@ -20,25 +20,25 @@ const Projects = () => {
     {
       image: "/assets/EcommerceImg.png",
       alt: "ecommerceimg",
-      description: "Project blah blah blah...",
+      github: "https://github.com/Ani2nem/AshramamStore",
       link: "https://github.com/Ani2nem/AshramamStore"
     },
     {
       image: "/assets/RepCounterImage.png",
       alt: "repcounterimg",
-      description: "Project blah blah blah...",
+      github: "https://github.com/Ani2nem/Muscle-Learning",
       link: "https://github.com/Ani2nem/Muscle-Learning"
     },
     {
       image: "/assets/Debt-a-wayImg.png",
       alt: "debtawayimg",
-      description: "Project blah blah blah...",
-      link: "https://github.com/Sathwik6/Debt-A-Way"
+      github: "https://github.com/Sathwik6/Debt-A-Way",
+      link: "https://debt-a-way.vercel.app/",
     },
     {
       image: "/assets/dupImgsImg.png",
       alt: "dupimgsimg",
-      description: "Project blah blah blah...",
+      github: "https://github.com/Ani2nem/img_duplicate_detector",
       link: "https://github.com/Ani2nem/img_duplicate_detector"
     }
   ];
@@ -56,8 +56,16 @@ const Projects = () => {
                 className="slideImg"
               />
             </a>
-            <div className='project-description'>
-              {/* You can add the description here if needed */}
+            <div className='project-links'>
+              <a href={project.github} target="_blank" rel="noopener noreferrer">
+                <img src="/assets/Icons/githubIcon.png" alt="github" className="githubIcon"/>
+                <p> Code</p>
+              </a>
+              <a href={project.link} target="_blank" rel="noopener noreferrer">
+                <img src="/assets/Icons/rocket.png" alt="rocket" className="githubIcon"/>
+                <p>Try!</p>
+              </a>
+              
             </div>
           </div>
         ))}
