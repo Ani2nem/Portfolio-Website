@@ -21,7 +21,7 @@ const Projects = () => {
       image: "/assets/EcommerceImg.png",
       alt: "ecommerceimg",
       github: "https://github.com/Ani2nem/AshramamStore",
-      link: "https://github.com/Ani2nem/AshramamStore"
+      link: "https://anirudh-e-store.vercel.app/"
     },
     {
       image: "/assets/RepCounterImage.png",
