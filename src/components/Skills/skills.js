@@ -20,7 +20,7 @@ const Skills = () => {
                 <img src="/assets/Icons/pandasIcon.ico" alt="" className="pandas-icon"/>
                 <img src="/assets/Icons/numpyIcon.svg" alt="" className="numpy-icon"/>
                 <img src="/assets/Icons/plotlyIcon.png" alt="" className="plotly-icon"/>
-                <img src="/assets/Icons/azureIcon.png" alt="" className="aws-icon"/>
+                <img src="/assets/Icons/awsIcon.svg" alt="" className="aws-icon"/>
             </div>
             <h2 className="advSkills">Advanced Proficiencies</h2>
             <div className="advCard">
