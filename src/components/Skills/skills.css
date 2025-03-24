@@ -58,6 +58,7 @@
     width: auto;
 }
 
+
 .mysql-icon:hover{
     cursor: pointer;
 }
@@ -157,14 +158,15 @@
     cursor: pointer;
 }
 
-.numpy-icon{
+.spring-icon{
     margin: 1vw 1vw;
-    margin-top: -0.5vw;
-    height: 16vw;
+    margin-left: -0.5vw;
+    margin-top: -1vw;
+    height: 15vw;
     width: auto;
 }
 
-.numpy-icon:hover{
+.spring-icon:hover{
     cursor: pointer;
 }
 
