@@ -11,18 +11,33 @@ const Contact = () =>{
         emailjs.init('user_ifTHd4HcJTlpmBvKs');
     }, []);
 
-    const sendEmail = (e) => {
-        e.preventDefault();
-    
-        emailjs.sendForm('service_y0n53x3', 'template_x9zbji6', form.current, 'ifTHd4HcJTlpmBvKs')
-          .then((result) => {
-              console.log(result.text);
-              e.target.reset();
-              alert('Email Sent!');
-          }, (error) => {
-              console.log(error.text);
-          });
-      };
+    const sendEmail = async (e) => {
+    e.preventDefault();
+    const payload = {
+        name: e.target.from_name.value,
+        email: e.target.from_email.value,
+        message: e.target.message.value
+    };
+
+    try {
+        const res = await fetch("https://YOUR_API_GATEWAY_URL.amazonaws.com/sendEmail", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+        });
+
+        if (res.ok) {
+        alert("Email sent! ✅");
+        e.target.reset();
+        } else {
+        alert("Failed to send email ❌");
+        }
+    } catch (err) {
+        console.error(err);
+        alert("Network error ❌");
+    }
+    };
+
 
     return (
         <div className="contactSection">
