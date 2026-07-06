@@ -9,8 +9,7 @@ const Hero = () => {
       <div className="text">
         <TypeWriter text="Hi! I'm Anirudh." highlightColor="rgb(210, 48, 210)" className="typewriter"/>
         <text className="hero-text">
-          A Software Engineer with a passion for unraveling complex problems. Proficient in Java for robust applications,
-          Python for insightful data visualization, and adept in the MERN stack for full-stack web development.
+        Software Engineer specializing in cloud-native infrastructure, high-velocity product development, and agentic AI systems. I architect distributed, event-driven serverless applications that eliminate processing friction and scale autonomously.
         <div className="icon-holder">
             <div className="icons">
           <a href="https://www.linkedin.com/in/anirudhnemmani/" target="_blank" rel="noreferrer">

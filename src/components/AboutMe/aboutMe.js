@@ -6,11 +6,8 @@ const AboutMe = () =>{
         <div>
             <h1 className="aboutMeTitle" id="About">About Me</h1>  
             <div className='textContainer'>
-            <p className="aboutMe">I am a Computer Science student 
-            graduating from The University of Texas at Dallas in Dec 2026. Proficient in Java, 
-            JavaScript, Python, C++, and C, I excel in technologies such as AWS, MongoDB, React.js, 
-            and Node.js. With a solid foundation in Agile methodologies, Git, and GitHub, I bring diverse 
-            experience and a commitment to impactful solutions in computer science.</p>
+            <p className="aboutMe">I’m a Software Engineer focused on cloud-native infrastructure, high-velocity development, and agentic AI systems. I build distributed, event-driven serverless applications on AWS that scale autonomously and cut out the friction.
+            Currently at Hagerty, I own the full architecture for Node.js serverless platforms supporting $32M+ ARR. I love solving real-world challenges through clean architecture, creative automation, and constantly leveling up in cloud technologies and AI.</p>
              </div>
              <img src="/assets/memoji.gif" alt="memeoji" className='memoji'></img>
         </div>
